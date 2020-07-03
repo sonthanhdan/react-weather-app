@@ -1,6 +1,6 @@
 export const api = {
     key: 'a350b6779c45f7511eb94ec4da17f41f',
-    baseURL: "http://api.openweathermap.org/data/2.5/"
+    baseURL: "https://api.openweathermap.org/data/2.5/"
   }
 export const months = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
 export const days = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
