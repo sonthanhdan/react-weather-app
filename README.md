@@ -1,4 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Screenshot
+![alt text](https://github.com/sonthanhdan/react-weather-app/blob/master/Screen%20Shot%202020-07-04%20at%2001.53.09.png)
 
 ## Available Scripts
 
